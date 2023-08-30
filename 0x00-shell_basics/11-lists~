@@ -1,5 +1,0 @@
-#!/bin/bash
-ls -la
-11-lists ..
-ls -la
-ls -la /boot
